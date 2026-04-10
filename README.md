@@ -7,7 +7,7 @@ This project analyzes revenue data for a residential cleaning service. Using Goo
 
 ## Data
 Each row represents one service transaction. Columns used:
-The dataset is included in this repository as `cleaning-service-revenue-analysis.xlsx`.
+The dataset is included in this repository as `Chris Johnson Data Project - Data Analysis 1.xlsx`.
 
 | Column | Description |
 |--------|-------------|
