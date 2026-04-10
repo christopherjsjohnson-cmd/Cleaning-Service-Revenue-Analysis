@@ -1,0 +1,22 @@
+Date,Customer,Service,Amount,Paid/Unpaid,,Service Type,Total Revenue
+3/1,David M,Cleaning,$150.00,Paid,,Cleaning,"$1,685"
+3/2,John K,Cleaning,$120.00,Paid,,Deep Clean,"$1,600"
+3/3,Alyssa S,Deep Clean ,$200.00,Paid,,,
+3/4,Tom H,Cleaning,$150.00,Paid,,,
+3/5,Cyndi L,Deep Clean ,$200.00,Paid,,,
+3/6,Jessica K,Deep Clean ,$225.00,Paid,,,
+3/7,Dylan M,Cleaning,$125.00,Paid,,,
+3/8,Frank H,Cleaning,$160.00,Paid,,,
+3/9,Alexis G,Deep Clean ,$250.00,Paid,,,
+3/10,David M,Cleaning,$150.00,Paid,,,
+3/11,John K,Cleaning,$125.00,Paid,,,
+3/12,Tom H,Cleaning,$150.00,Paid,,,
+3/13,Dylan M,Cleaning,$125.00,Paid,,,
+3/14,Frank H,Cleaning,$160.00,Paid,,,
+3/15,Kyle W,Deep Clean ,$250.00,Paid,,,
+3/16,Candace P,Deep Clean ,$225.00,Paid,,,
+3/17,Evelyn A,Deep Clean ,$250.00,Paid,,,
+3/18,David M,Cleaning,$150.00,Unpaid,,,
+3/19,John K,Cleaning,$120.00,Unpaid,,,
+Total,,,"$3,285.00",,,,
+Average,,,$172.89,,,,
